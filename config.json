@@ -1,0 +1,14 @@
+{
+    "users": [
+        {"username":"user",
+         "password":"md5_of_password"}
+    ],
+    "list":[
+        {
+            "name": "DemoPC1",
+            "address": 0,
+            "short_duration": 0,
+            "long_duration": 8
+        }
+    ]
+}
